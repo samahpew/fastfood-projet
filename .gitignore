@@ -1,0 +1,12 @@
+.ivy2/
+.ipynb_checkpoints/
+__pycache__/
+data/orders_history.jsonl
+spark-warehouse/
+metastore_db/
+derby.log
+spark-events/*
+!spark-events/.gitkeep
+~$*
+*.tmp
+rapport/~$*
