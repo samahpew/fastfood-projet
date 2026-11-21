@@ -1,0 +1,9 @@
+{
+  "count (lecture MinIO + parsing)": 73.372,
+  "CA par ville (RDD, données en cache)": 4.28,
+  "panier moyen (aggregateByKey)": 2.472,
+  "top 5 restaurants (takeOrdered)": 4.561,
+  "CA par ville RDD sans cache - essai 1": 9.483,
+  "CA par ville RDD sans cache - essai 2": 6.828,
+  "CA par ville RDD sans cache - essai 3": 5.9
+}

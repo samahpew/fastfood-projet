@@ -1,0 +1,17 @@
+{
+  "CA par ville DataFrame sans cache - essai 1": 7.577,
+  "CA par ville DataFrame sans cache - essai 2": 5.464,
+  "CA par ville DataFrame sans cache - essai 3": 3.619,
+  "CA par ville SQL sans cache - essai 1": 3.593,
+  "CA par ville SQL sans cache - essai 2": 3.463,
+  "CA par ville SQL sans cache - essai 3": 2.947,
+  "distance_band UDF Python - essai 1": 4.664,
+  "distance_band UDF Python - essai 2": 4.109,
+  "distance_band UDF Python - essai 3": 3.238,
+  "distance_band when/otherwise - essai 1": 1.842,
+  "distance_band when/otherwise - essai 2": 1.485,
+  "distance_band when/otherwise - essai 3": 0.89,
+  "écriture Parquet silver/orders_history": 22.6,
+  "jointure SortMergeJoin (broadcast désactivé)": 4.8,
+  "jointure BroadcastHashJoin": 2.833
+}

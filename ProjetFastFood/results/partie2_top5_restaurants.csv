@@ -1,0 +1,6 @@
+restaurant_id,nom,ville,catégorie,commandes livrées
+R-001,Dar Palmier Tacos,Casablanca,tacos,494
+R-010,Chez Palmier Healthy,Tanger,healthy,373
+R-002,Bab Corniche Healthy,Rabat,healthy,331
+R-003,Bab Atlas Tacos,Casablanca,tacos,322
+R-004,Maison Andalous Marocain,Marrakech,marocain,297

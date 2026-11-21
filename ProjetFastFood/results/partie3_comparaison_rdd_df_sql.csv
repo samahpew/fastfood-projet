@@ -1,0 +1,4 @@
+API,temps moyen (s),meilleur temps (s)
+RDD (Partie 2),7.404,5.9
+DataFrame,5.553,3.619
+Spark SQL,3.334,2.947
